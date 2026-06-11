@@ -5,4 +5,4 @@ Những phần tự thực hiện:Phần khung header,navbar,main,footer
 NHững Phần tham khảo AI:Cách định dạng tạo khung cho hình ảnh 
 Khó khăn:Chưa làm được javacript
 Link live wed:
-https://github.com/251ctt009quynh-cloud/251ctt009_NguyenThiBAoQuynh_thiTKW/upload
+https://251ctt009quynh-cloud.github.io/251ctt009_NguyenThiBAoQuynh_thiTKW/
